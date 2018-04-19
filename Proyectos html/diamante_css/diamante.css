@@ -1,6 +1,10 @@
+body{ 
+	background-image: url("gunbound.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #904050;
+}
 p{
 	font-size: Arial;
 	color:blue;
-	
-
+	background-color: #00ffff;
 }
